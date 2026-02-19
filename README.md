@@ -4,7 +4,7 @@ Software developer who loves building mobile and web apps — from pixel-perfect
 
 I work with **Flutter** for cross-platform mobile 📱, **JavaScript/TypeScript** on the frontend 🌐, and **Node.js** on the backend ⚙️. I care about clean code, good architecture, and shipping things that actually work.
 
----
+
 
 ### 🛠️ Tech I use regularly
 
@@ -14,16 +14,10 @@ I work with **Flutter** for cross-platform mobile 📱, **JavaScript/TypeScript*
 - 🗄️ **Databases** — PostgreSQL, MongoDB, Firebase
 - 🔧 **Tools** — Git, Docker, Vercel, Railway
 
----
+
 
 ### 🌱 Currently
 
 Working on improving my system design skills and building a few side projects. Always open to collaborating on interesting problems — let's build something cool! 🤝
 
----
 
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petereog&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars)
-
----
